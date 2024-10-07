@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 public class Needle7 {
 
-    @Autowired
+
     private Death8 deth;
 
     public Needle7(Death8 deth){
